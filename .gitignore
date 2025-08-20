@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+data/processed/*.parquet
+outputs/charts/*.png
+outputs/tables/*.csv
+.env
+venv/
+
